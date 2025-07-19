@@ -24,7 +24,7 @@ jobs:
                   package-manager: npm@10.9.2
 
             - name: Upload build output to GitHub Pages artifact
-              uses: actions/upload-pages-artifact@v2
+              uses: actions/upload-pages-artifact@v3
               with:
                   path: ./dist
 
