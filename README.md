@@ -4,7 +4,6 @@
 
 It is a repository for the code of the portfolio of Anirban Sikdar(me). The live server is at [anirban.space](anirban.space).
 
-
 Inside of your Astro project, you'll see the following folders and files:
 
 ```text
@@ -41,15 +40,16 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-
 ## Tailwind CSS
+
 As part of the development it also has Tailwind CSS integrated to the project you can checkout the local configurations at [tsconfig.json](tsconfig.json).
 
 As tailwind CSS is a Mobile oriented styling framework it has been difficult, and a grave mistake to start from developing from the desktop then back to a responsive view of the site.
 
-This page supports both Desktop and Mobile view. You can checkout the crazy framework of tailwind here at  [Tailwind CSS](https://tailwindcss.com/) ✨✨.
+This page supports both Desktop and Mobile view. You can checkout the crazy framework of tailwind here at [Tailwind CSS](https://tailwindcss.com/) ✨✨.
 
 ## UI/UX
+
 Designing a project before developing the frontend really help and in this project I have learnt a handful of UI/UX. Skills and can brag about it so check them out here [WireFrames](https://www.figma.com/file/UaF8U2ntQDSajEHV6K8gK0/Portfolio?type=design&t=FcqbpQPlOKtMDQSt-6).
 
 ## Contributing
